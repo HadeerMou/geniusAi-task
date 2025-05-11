@@ -1,0 +1,382 @@
+{
+  "grand_total": {
+    "total_beds": 2198,
+    "occupied": 1385,
+    "vacant": 813,
+    "rate": 63.0,
+    "color": "#eb442c"
+  },
+  "care_type_totals": {
+    "Intensive Care": {
+      "total": 223,
+      "vacant": 63,
+      "rate": 71.7,
+      "color": "#eb442c"
+    },
+    "Pediatric Care": {
+      "total": 144,
+      "vacant": 49,
+      "rate": 66.0,
+      "color": "#eb442c"
+    },
+    "Normal Care": {
+      "total": 1138,
+      "vacant": 458,
+      "rate": 59.8,
+      "color": "#f8b324"
+    }
+  },
+  "hospitals": [
+    {
+      "id": 1,
+      "name": "NSH",
+      "total": 446,
+      "occupied": 268,
+      "vacant": 178,
+      "rate": 60.1,
+      "color": "#eb442c",
+      "careTypes": [
+        {
+          "title": "Intensive Care",
+          "total": 63,
+          "vacant": 18,
+          "rate": 71.4,
+          "color": "#eb442c",
+          "has_mappings": true
+        },
+        {
+          "title": "Pediatric Care",
+          "total": 2,
+          "vacant": 1,
+          "rate": 50.0,
+          "color": "#f8b324",
+          "has_mappings": true
+        },
+        {
+          "title": "Normal Care",
+          "total": 339,
+          "vacant": 132,
+          "rate": 61.1,
+          "color": "#eb442c",
+          "has_mappings": true
+        }
+      ],
+      "status_codes": {
+        "vacant": ["1"],
+        "occupied": ["5", "2"]
+      }
+    },
+    {
+      "id": 2,
+      "name": "NSH",
+      "total": 446,
+      "occupied": 268,
+      "vacant": 178,
+      "rate": 60.1,
+      "color": "#eb442c",
+      "careTypes": [
+        {
+          "title": "Intensive Care",
+          "total": 63,
+          "vacant": 18,
+          "rate": 71.4,
+          "color": "#eb442c",
+          "has_mappings": true
+        },
+        {
+          "title": "Pediatric Care",
+          "total": 2,
+          "vacant": 1,
+          "rate": 50.0,
+          "color": "#f8b324",
+          "has_mappings": true
+        },
+        {
+          "title": "Normal Care",
+          "total": 339,
+          "vacant": 132,
+          "rate": 61.1,
+          "color": "#eb442c",
+          "has_mappings": true
+        }
+      ],
+      "status_codes": {
+        "vacant": ["1"],
+        "occupied": ["5", "2"]
+      }
+    },
+    {
+      "id": 2,
+      "name": "NSH",
+      "total": 446,
+      "occupied": 268,
+      "vacant": 178,
+      "rate": 60.1,
+      "color": "#eb442c",
+      "careTypes": [
+        {
+          "title": "Intensive Care",
+          "total": 63,
+          "vacant": 18,
+          "rate": 71.4,
+          "color": "#eb442c",
+          "has_mappings": true
+        },
+        {
+          "title": "Pediatric Care",
+          "total": 2,
+          "vacant": 1,
+          "rate": 50.0,
+          "color": "#f8b324",
+          "has_mappings": true
+        },
+        {
+          "title": "Normal Care",
+          "total": 339,
+          "vacant": 132,
+          "rate": 61.1,
+          "color": "#eb442c",
+          "has_mappings": true
+        }
+      ],
+      "status_codes": {
+        "vacant": ["1"],
+        "occupied": ["5", "2"]
+      }
+    },
+    {
+      "id": 4,
+      "name": "NSH",
+      "total": 446,
+      "occupied": 268,
+      "vacant": 178,
+      "rate": 60.1,
+      "color": "#eb442c",
+      "careTypes": [
+        {
+          "title": "Intensive Care",
+          "total": 63,
+          "vacant": 18,
+          "rate": 71.4,
+          "color": "#eb442c",
+          "has_mappings": true
+        },
+        {
+          "title": "Pediatric Care",
+          "total": 2,
+          "vacant": 1,
+          "rate": 50.0,
+          "color": "#f8b324",
+          "has_mappings": true
+        },
+        {
+          "title": "Normal Care",
+          "total": 339,
+          "vacant": 132,
+          "rate": 61.1,
+          "color": "#eb442c",
+          "has_mappings": true
+        }
+      ],
+      "status_codes": {
+        "vacant": ["1"],
+        "occupied": ["5", "2"]
+      }
+    },
+    {
+      "id": 2,
+      "name": "NSH",
+      "total": 446,
+      "occupied": 268,
+      "vacant": 178,
+      "rate": 60.1,
+      "color": "#eb442c",
+      "careTypes": [
+        {
+          "title": "Intensive Care",
+          "total": 63,
+          "vacant": 18,
+          "rate": 71.4,
+          "color": "#eb442c",
+          "has_mappings": true
+        },
+        {
+          "title": "Pediatric Care",
+          "total": 2,
+          "vacant": 1,
+          "rate": 50.0,
+          "color": "#f8b324",
+          "has_mappings": true
+        },
+        {
+          "title": "Normal Care",
+          "total": 339,
+          "vacant": 132,
+          "rate": 61.1,
+          "color": "#eb442c",
+          "has_mappings": true
+        }
+      ],
+      "status_codes": {
+        "vacant": ["1"],
+        "occupied": ["5", "2"]
+      }
+    },
+    {
+      "id": 4,
+      "name": "NSH",
+      "total": 446,
+      "occupied": 268,
+      "vacant": 178,
+      "rate": 60.1,
+      "color": "#eb442c",
+      "careTypes": [
+        {
+          "title": "Intensive Care",
+          "total": 63,
+          "vacant": 18,
+          "rate": 71.4,
+          "color": "#eb442c",
+          "has_mappings": true
+        },
+        {
+          "title": "Pediatric Care",
+          "total": 2,
+          "vacant": 1,
+          "rate": 50.0,
+          "color": "#f8b324",
+          "has_mappings": true
+        },
+        {
+          "title": "Normal Care",
+          "total": 339,
+          "vacant": 132,
+          "rate": 61.1,
+          "color": "#eb442c",
+          "has_mappings": true
+        }
+      ],
+      "status_codes": {
+        "vacant": ["1"],
+        "occupied": ["5", "2"]
+      }
+    },
+    {
+      "id": 4,
+      "name": "NSH",
+      "total": 446,
+      "occupied": 268,
+      "vacant": 178,
+      "rate": 60.1,
+      "color": "#eb442c",
+      "careTypes": [
+        {
+          "title": "Intensive Care",
+          "total": 63,
+          "vacant": 18,
+          "rate": 71.4,
+          "color": "#eb442c",
+          "has_mappings": true
+        },
+        {
+          "title": "Pediatric Care",
+          "total": 2,
+          "vacant": 1,
+          "rate": 50.0,
+          "color": "#f8b324",
+          "has_mappings": true
+        },
+        {
+          "title": "Normal Care",
+          "total": 339,
+          "vacant": 132,
+          "rate": 61.1,
+          "color": "#eb442c",
+          "has_mappings": true
+        }
+      ],
+      "status_codes": {
+        "vacant": ["1"],
+        "occupied": ["5", "2"]
+      }
+    },
+    {
+      "id": 4,
+      "name": "NSH",
+      "total": 446,
+      "occupied": 268,
+      "vacant": 178,
+      "rate": 60.1,
+      "color": "#eb442c",
+      "careTypes": [
+        {
+          "title": "Intensive Care",
+          "total": 63,
+          "vacant": 18,
+          "rate": 71.4,
+          "color": "#eb442c",
+          "has_mappings": true
+        },
+        {
+          "title": "Pediatric Care",
+          "total": 2,
+          "vacant": 1,
+          "rate": 50.0,
+          "color": "#f8b324",
+          "has_mappings": true
+        },
+        {
+          "title": "Normal Care",
+          "total": 339,
+          "vacant": 132,
+          "rate": 61.1,
+          "color": "#eb442c",
+          "has_mappings": true
+        }
+      ],
+      "status_codes": {
+        "vacant": ["1"],
+        "occupied": ["5", "2"]
+      }
+    },
+    {
+      "id": 4,
+      "name": "NSH",
+      "total": 446,
+      "occupied": 268,
+      "vacant": 178,
+      "rate": 60.1,
+      "color": "#eb442c",
+      "careTypes": [
+        {
+          "title": "Intensive Care",
+          "total": 63,
+          "vacant": 18,
+          "rate": 71.4,
+          "color": "#eb442c",
+          "has_mappings": true
+        },
+        {
+          "title": "Pediatric Care",
+          "total": 2,
+          "vacant": 1,
+          "rate": 50.0,
+          "color": "#f8b324",
+          "has_mappings": true
+        },
+        {
+          "title": "Normal Care",
+          "total": 339,
+          "vacant": 132,
+          "rate": 61.1,
+          "color": "#eb442c",
+          "has_mappings": true
+        }
+      ],
+      "status_codes": {
+        "vacant": ["1"],
+        "occupied": ["5", "2"]
+      }
+    }
+  ]
+}
