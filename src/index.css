@@ -10,7 +10,7 @@
 }
 
 /* Custom media query for large screens (3840px and above) */
-@media (min-width: 3000px) {
+@media (min-width: 2750px) {
   .hospital-card-3xl {
     padding: 2.5rem;
     gap: 1rem;
